@@ -28,6 +28,10 @@
   * 2 - 4pm Research use of fitness in GA in other applications.
   * 4 - 445pm Continue with researching using Daniel Shiffman's *Nature of Code* book.
   * It's looking good! (better)
+  
+######  May 12th
+  * Ran into some git conflicts because of existing readme and 'unrelated histories'. Had to recreate repo
+  
 
 ### Goals
 
